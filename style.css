@@ -84,6 +84,8 @@ button:hover {
 .equals:hover {
     background: #218838;
 }
+.h1{
+    text-align: cemter;
 
 .zero {
     grid-column: span 2;
